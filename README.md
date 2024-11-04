@@ -1,2 +1,2 @@
 # e-commerce
-https://nayem13913.github.io/Project-2/
+ Preview: https://nayemalways.github.io/Project-2/
